@@ -4,7 +4,7 @@
 [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
 
 ## Assembly
-[Writing boot sectore code](https://susam.in/blog/writing-boot-sector-code/)
+[Writing boot sector code](https://susam.in/blog/writing-boot-sector-code/)
 
 ## Bash
 [Idempotent Bash Scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
