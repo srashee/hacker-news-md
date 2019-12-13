@@ -19,5 +19,5 @@ https://developers.redhat.com/blog/2019/07/08/10-tips-for-reviewing-code-you-don
 https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/ 
 
 ## Misc
-https://www.happyhues.co/palettes/4
+https://www.happyhues.co/palettes/4 <br /> 
 http://musicforprogramming.net/?one
