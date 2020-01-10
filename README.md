@@ -3,6 +3,9 @@
 ## C
 [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
 
+## Encryption
+https://toc.cryptobook.us/
+
 ## Assembly
 [Writing boot sector code](https://susam.in/blog/writing-boot-sector-code/)
 
